@@ -71,6 +71,9 @@ New Animations:
  -- fdance2     /e fdance2: Female Dance 2  
  -- mdance1     /e mdance1: Male Dance 1  
  -- mdance2     /e mdance2: Male Dance 2  
+ -- backslap /e backslap: FemaleBackslap
+-- backslap /e backslap1: Female to Male backslap
+-- backslap /e backslap2: Male to male backslap
 
 
 
